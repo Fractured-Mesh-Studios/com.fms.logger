@@ -1,6 +1,6 @@
 {
   "name": "com.fms.logger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "displayName": "Logger",
   "description": "Author: Jorge Nauel Gerones.\nA Better log library for unity based on the default Debug.Log",
   "unity": "2021.1",

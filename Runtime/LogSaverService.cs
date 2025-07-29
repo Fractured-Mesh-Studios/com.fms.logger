@@ -7,8 +7,6 @@ using System.Threading.Tasks;
 using System.Threading;
 using System.Security;
 using System.Text.RegularExpressions;
-using static UnityEngine.EventSystems.EventTrigger;
-using System.Runtime.CompilerServices;
 
 public class LogSaverService : MonoBehaviour
 {
